@@ -1,0 +1,15 @@
+build/
+
+# Dependency directories
+node_modules/
+
+# IDEA editor
+.idea/
+
+# Environment variables
+.env
+
+# VSCode
+/.vscode/*
+!/.vscode/settings.json
+.history/
